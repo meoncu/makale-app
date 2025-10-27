@@ -1,20 +1,20 @@
 {
-  "yil": 2025,
-  "ay": 10,
-  "makaleler": [
+  "year": 2025,
+  "month": 10,
+  "articles": [
     {
       "id": 1,
-      "baslik": "Ekim Ayı Tarım Raporu",
-      "icerik": "Uzun makale metni buraya gelecek...",
-      "yazar": "Ahmet Yılmaz",
-      "favori": false
+      "title": "Makale Başlığı 1",
+      "author": "Yazar 1",
+      "content": "Makale içeriği uzun metin...",
+      "favorite": false
     },
     {
       "id": 2,
-      "baslik": "Toprak Analizi ve Öneriler",
-      "icerik": "Makale metni...",
-      "yazar": "Mehmet Kaya",
-      "favori": false
+      "title": "Makale Başlığı 2",
+      "author": "Yazar 2",
+      "content": "Makale içeriği uzun metin...",
+      "favorite": false
     }
   ]
 }
