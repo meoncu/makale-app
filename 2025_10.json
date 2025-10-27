@@ -1,0 +1,20 @@
+{
+  "yil": 2025,
+  "ay": 10,
+  "makaleler": [
+    {
+      "id": 1,
+      "baslik": "Ekim Ayı Tarım Raporu",
+      "icerik": "Uzun makale metni buraya gelecek...",
+      "yazar": "Ahmet Yılmaz",
+      "favori": false
+    },
+    {
+      "id": 2,
+      "baslik": "Toprak Analizi ve Öneriler",
+      "icerik": "Makale metni...",
+      "yazar": "Mehmet Kaya",
+      "favori": false
+    }
+  ]
+}
