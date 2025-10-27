@@ -1,20 +1,6 @@
 {
-  "year": 2025,
-  "month": 10,
-  "articles": [
-    {
-      "id": 1,
-      "title": "Makale Başlığı 1",
-      "author": "Yazar 1",
-      "content": "Makale içeriği uzun metin...",
-      "favorite": false
-    },
-    {
-      "id": 2,
-      "title": "Makale Başlığı 2",
-      "author": "Yazar 2",
-      "content": "Makale içeriği uzun metin...",
-      "favorite": false
-    }
+  "makaleler": [
+    { "id": 1, "title": "Başlık", "author": "Yazar", "content": "İçerik", "favorite": false },
+    { "id": 2, "title": "Başlık 2", "author": "Yazar 2", "content": "İçerik 2", "favorite": false }
   ]
 }
