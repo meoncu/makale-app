@@ -1,18 +1,16 @@
-{
-  "makaleler": [
-    {
-      "id": 1,
-      "title": "Başlık",
-      "author": "Yazar",
-      "content": "İçerik",
-      "favorite": false
-    },
-    {
-      "id": 2,
-      "title": "Başlık 2",
-      "author": "Yazar 2",
-      "content": "İçerik 2",
-      "favorite": false
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Makale 1",
+    "author": "Me",
+    "content": "İçerik 1",
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "title": "Makale 2",
+    "author": "Me",
+    "content": "İçerik 2",
+    "favorite": false
+  }
+]
