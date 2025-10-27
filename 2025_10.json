@@ -5,12 +5,5 @@
     "author": "Me",
     "content": "İçerik 1",
     "favorite": false
-  },
-  {
-    "id": 2,
-    "title": "Makale 2",
-    "author": "Me",
-    "content": "İçerik 2",
-    "favorite": false
   }
 ]
